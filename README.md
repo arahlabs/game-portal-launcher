@@ -1,10 +1,8 @@
 # Game Portal Launcher
 
-[![Game Portal Launcher: all your games in one home](assets/feature-graphic.jpg)](https://play.google.com/store/apps/details?id=com.arahlabs.gameportal)
+[![Game Portal Launcher: all your games in one home](feature-graphic.jpg)](https://play.google.com/store/apps/details?id=com.arahlabs.gameportal)
 
 **A console-style home screen for your Android games.** Game Portal Launcher puts your games front and center as cover cards, works with a game controller as well as touch, and keeps your other apps one tab away.
-
-### [▶ Get it on Google Play](https://play.google.com/store/apps/details?id=com.arahlabs.gameportal)
 
 This repository is the public place to **report bugs** and **request features**. The app's source code is not published here.
 
